@@ -1,14 +1,14 @@
 # Poliedro-Auto-Homework
 
 ( PT-BR ) Bom, criei esse projeto para ajudar o pessoal que estuda em escolas com o sistema Poliedro.
-          O script, quando é deixado aberto, automaticamente conclui todas as tarefas pendentes e expiradas.
-          Desta forma, você não precisa se preocupar em concluí-las antes do prazo.
+          O script, quando é deixado aberto, automaticamente conclui todas as tarefas pendentes.
+          Desta forma, você não precisa se preocupar em lembrar de concluí-las antes do prazo.
           
   Nota: é necessário que você baixe e instale o Python 3 em seu computador ou celular para utilizá-lo.
           
 ( EN-US ) Well, I've created this script with the intention to help people that study on schools that use the
-          Poliedro system. The script, when running, automatically sets all pending and expired homework as completed.
-          Therefore, you won't have to worry about completing them before the due date.
+          Poliedro system. The script, when running, automatically sets all pending homework as completed.
+          Therefore, you won't have to worry about remembering to complete them before the due date.
           
   Note: it's necessary that you download and install Python 3 in your computer or phone to use it.
           
